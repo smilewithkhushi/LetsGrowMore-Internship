@@ -10,7 +10,11 @@
 
 <br>
 <hr width="100%" size=3>
-<h2 align="center"> TASK 2 : Create a Calculator using HTML, CSS and JavaScript </h2>
+<h2 align="center"> TASK 2 : Create a Calculator using HTML, CSS and JavaScript <br>
+
+LINK : ![Uploading Screenshot (966).png…]()
+
+</h2>
 <br>
 
 ![Screenshot (966)](https://user-images.githubusercontent.com/102166679/195578584-09eb32a2-ad8e-4b14-8bc9-f325d9c9da2f.png)
