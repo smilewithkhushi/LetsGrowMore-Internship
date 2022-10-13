@@ -12,7 +12,7 @@
 <hr width="100%" size=3>
 <h2 align="center"> TASK 2 : Create a Calculator using HTML, CSS and JavaScript <br>
 
-LINK : ![Uploading Screenshot (966).png…]()
+LINK : https://smilewithkhushi.github.io/Calculator/
 
 </h2>
 <br>
